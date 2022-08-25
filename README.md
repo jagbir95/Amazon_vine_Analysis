@@ -11,5 +11,7 @@ The main purpose of this project is to analyze the amazon reviews written by mem
 - Non-vine reviews with 5-star rating are 29982.
 - Lastly, the percentage of non-vine reviews with a 5-star rating is 48.34.
 # Summary:
-The number of unpaid-vine reviews is much higher than the paid vine reviews program. So there is no bias towards paid vine reviews.
+The number of unpaid-vine reviews is much higher than the paid vine reviews program. Therefore, the bias is towards un-paid vine reviews. Furthermore, we can analyze whether the review purchase is verified or non-verified.
+
+
 
